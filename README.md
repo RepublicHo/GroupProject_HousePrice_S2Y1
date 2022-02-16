@@ -2,4 +2,4 @@
 This is the group project, predicting house price, based on relative project on Kaggle. 
 
 
-**The details of analisis can be seen in Report_HousePrice.pdf, and the code was written in R.**
+**The details of analysis can be seen in Report_HousePrice.pdf, and the code was written in R.**
